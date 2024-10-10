@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💙 About Me:
 Benedict John R. Layos
 I'm currently pursuing a Bachelor of Science in Information Technology at Ateneo de Davao University, with a deep passion for blending technology, management, and nature. My interests span aquaponics, economics, management, and music, which drive my innovative thinking and approach to solving real-world problems.
 
