@@ -1,5 +1,18 @@
 # 💫 About Me:
-Name: Benedict John R. Layos<br>School: Ateneo de Davao University<br>Course: BS-INFORMATION TECHNOLOGY<br>INTEREST: AQUAPHONICS, NATURE, TECHNOLOGY, ECONOMICS, MANAGEMENT, and MUSIC<br>LIVEPLACE: DAVAO DEL SUR DAVAO CITY PHILIPPINES<br>GOAL: TO BE ABLE TO MAKE AN APP THAT WILL MAKE BUSINESSES IN THE MANAGEMENT SECTOR MORE EASIER<br>NOTE: REALLY LIKES TO COLLAB AND LEARN WITH PEOPLE WHO ARE HUMBLE AND INNOVATIVE<br>Currently learning PWA, statistics coding, and website related technologies, might learn AI and machine learning
+Benedict John R. Layos
+I'm currently pursuing a Bachelor of Science in Information Technology at Ateneo de Davao University, with a deep passion for blending technology, management, and nature. My interests span aquaponics, economics, management, and music, which drive my innovative thinking and approach to solving real-world problems.
+
+I am based in Davao City, Philippines, and aspire to develop applications that simplify business processes in the management sector, aiming to create tools that streamline operations and enhance efficiency.
+
+I am currently enhancing my skills in Progressive Web Applications (PWA), statistics coding, and website-related technologies, with future plans to explore artificial intelligence and machine learning. I enjoy collaborating with individuals who are both humble and innovative, as I believe in the power of teamwork and shared knowledge.
+
+Goal: To develop applications that revolutionize business management practices.
+
+📍 Location: Davao del Sur, Davao City, Philippines
+🎯 Interests: Aquaponics, Nature, Technology, Economics, Management, Music
+🚀 Learning: PWA, statistics coding, and web technologies. Next up: AI & Machine Learning.
+
+Let’s connect and create solutions that make a difference!
 
 
 ## 🌐 Socials:
