@@ -9,7 +9,9 @@ I am currently enhancing my skills in Progressive Web Applications (PWA), statis
 Goal: To develop applications that revolutionize business management practices.
 
 📍 Location: Davao del Sur, Davao City, Philippines
+
 🎯 Interests: Aquaponics, Nature, Technology, Economics, Management, Music
+
 🚀 Learning: PWA, statistics coding, and web technologies. Next up: AI & Machine Learning.
 
 Let’s connect and create solutions that make a difference!
