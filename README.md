@@ -17,7 +17,7 @@ Goal: To develop applications that revolutionize business management practices.
 Let’s connect and create solutions that make a difference!
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100065344235250) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benedict-layos-1171a7320/) 
 
 # 💻 Tech Stack
